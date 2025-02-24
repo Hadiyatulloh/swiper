@@ -1,0 +1,21 @@
+.swiper {
+    width: 400px;
+    height: 400px;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    transition: background 1s ease-in-out;
+}
